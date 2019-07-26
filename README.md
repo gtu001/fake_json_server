@@ -1,1 +1,5 @@
 "# fake_json_server"  
+
+修改db.json檔案可建立假的rest
+	https://my-json-server.typicode.com/gtu001/fake_json_server
+
